@@ -22,6 +22,10 @@
   --tab-max-height: 20px !important;
 }
 
+.tabbrowser-tab {
+  height: 24px !important;
+}
+
 .tab-close-button{
   display: none !important;
 }
