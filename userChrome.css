@@ -23,9 +23,7 @@
 }
 
 .tab-close-button{
-  height: 15px !important;
-  width: 15px !important;
-  padding: 2px !important;
+    display: none !important;
 }
 
 .tab-throbber-tabslist, .tab-throbber, .tab-icon-pending, .tab-icon-image, .tab-sharing-icon-overlay, .tab-icon-overlay {
